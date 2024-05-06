@@ -1,0 +1,75 @@
+body{
+	
+	background-color: black;
+	
+}
+
+.ka{
+	
+	height: 65px;
+	width: 90px;
+	background: red;
+	border: ;
+	border-radius: 12px;
+	left: 50px;
+	text-align: center;
+	
+}
+
+.kk {
+	
+	width: 0;
+	height: 0;
+	border-top: 13px solid transparent;
+	border-bottom: 13px solid transparent;
+	border-left: 20px solid white;
+	text-align: center;
+	
+}
+
+label,p{
+	color: black;
+}
+h4{
+	
+	color: white;
+	text-align: center;
+	
+}
+
+input{
+	color:black;
+	
+}
+
+.caixa2{
+	
+	height: 200px;
+	width: 300px;
+	border: ;
+	border-radius: 2px;
+	transform: translatex(-50%,-50%,50%);
+	border-radius:20px;
+	color:white;
+	background-image: linear-gradient(blue,red);
+	
+}
+
+
+form{
+	text-align: center;
+}
+
+p{
+	color: white;
+}
+button{
+	height: 30px;
+	width: 80px;
+	background-color: white;
+	border: ;
+	border-radius: 10px;
+}
+a{
+	color: black;
+}
